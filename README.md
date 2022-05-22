@@ -1,2 +1,2 @@
-# chameleon
-experiment to learn html
+# Chameleon
+Experiment to learn html with fun.
